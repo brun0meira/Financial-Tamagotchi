@@ -83,9 +83,6 @@ custom_styles/normal = SubResource( 1 )
 align = 1
 caret_blink = true
 script = ExtResource( 2 )
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="ContinueButton" type="Button" parent="."]
 margin_left = 504.0

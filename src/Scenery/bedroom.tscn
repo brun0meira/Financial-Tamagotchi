@@ -106,6 +106,7 @@ position = Vector2( -4, 3 )
 [node name="ParallaxBackground2" parent="." instance=ExtResource( 7 )]
 
 [node name="Transition_in" parent="." instance=ExtResource( 1 )]
+visible = false
 
 [node name="bedroomToStreet" parent="." instance=ExtResource( 10 )]
 position = Vector2( 1250, 676 )

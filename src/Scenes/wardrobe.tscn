@@ -86,6 +86,7 @@ __meta__ = {
 }
 
 [node name="Transition_in" parent="." instance=ExtResource( 4 )]
+visible = false
 
 [node name="sairteste" type="Button" parent="."]
 pause_mode = 2

@@ -385,6 +385,7 @@ path = "res://Scenery/bedroom.tscn"
 [node name="Joystick" parent="." instance=ExtResource( 14 )]
 
 [node name="Transition_in" parent="." instance=ExtResource( 5 )]
+visible = false
 
 [node name="Node2D" parent="Transition_in" instance=ExtResource( 14 )]
 scale = Vector2( 0.999997, 0.999997 )

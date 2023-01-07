@@ -225,6 +225,7 @@ anims/seta1 = SubResource( 14 )
 anims/setapreta = SubResource( 15 )
 
 [node name="Transition_in" parent="." instance=ExtResource( 3 )]
+visible = false
 
 [node name="Control2" parent="." instance=ExtResource( 11 )]
 visible = false

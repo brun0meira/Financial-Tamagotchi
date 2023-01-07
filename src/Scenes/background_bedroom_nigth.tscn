@@ -62,6 +62,7 @@ position = Vector2( 2, 1 )
 [node name="CanvasLayer" parent="." instance=ExtResource( 2 )]
 
 [node name="Transition_in" parent="." instance=ExtResource( 8 )]
+visible = false
 
 [node name="Area2D" type="Area2D" parent="."]
 position = Vector2( 144, 364 )

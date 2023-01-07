@@ -10,6 +10,7 @@
 script = ExtResource( 5 )
 
 [node name="Transition_in" parent="." instance=ExtResource( 3 )]
+visible = false
 
 [node name="Sprite" type="Sprite" parent="."]
 position = Vector2( 640, 360 )

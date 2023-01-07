@@ -271,6 +271,7 @@ shape = SubResource( 1 )
 
 [node name="Transition_in" parent="." instance=ExtResource( 2 )]
 pause_mode = 1
+visible = false
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 pause_mode = 1
